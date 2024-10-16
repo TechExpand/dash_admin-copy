@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "586640993877",
+    "project_id": "matline-d17a9",
+    "storage_bucket": "matline-d17a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586640993877:android:58f6ad3c9efc7fda2aaedc",
+        "android_client_info": {
+          "package_name": "com.easycare.easycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586640993877-ashkut08onepa1a06lupaevda7pdmvhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easycare.easycare",
+            "certificate_hash": "dfa5db75021dc125efbcad79eb939cdb0a7233c6"
+          }
+        },
+        {
+          "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYgUrIMzb9wbYGt-Y8D_ZAl1YzjtaTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586640993877:android:70420f5d7133fc282aaedc",
+        "android_client_info": {
+          "package_name": "com.example.easycarespecial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586640993877-sq8b54qbojtmr049u0rii1d4hqd2967n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easycarespecial",
+            "certificate_hash": "dfa5db75021dc125efbcad79eb939cdb0a7233c6"
+          }
+        },
+        {
+          "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYgUrIMzb9wbYGt-Y8D_ZAl1YzjtaTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586640993877:android:a5f51185ef997e4c2aaedc",
+        "android_client_info": {
+          "package_name": "com.example.martline_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586640993877-ovt5accptr7ikg0hrhfr3kh4567a9t5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.martline_admin",
+            "certificate_hash": "bd27af7997c20cc478dbc6c502619fc8c66e5ca0"
+          }
+        },
+        {
+          "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYgUrIMzb9wbYGt-Y8D_ZAl1YzjtaTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586640993877:android:bd6f75785468cd042aaedc",
+        "android_client_info": {
+          "package_name": "com.matline.matline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586640993877-8ocsko5qev8muvl4l4a2cosvb2da02m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matline.matline",
+            "certificate_hash": "bd27af7997c20cc478dbc6c502619fc8c66e5ca0"
+          }
+        },
+        {
+          "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYgUrIMzb9wbYGt-Y8D_ZAl1YzjtaTBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586640993877-8phu6va5ngqh7tuv985cio9259e0p6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
